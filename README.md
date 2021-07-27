@@ -1,4 +1,4 @@
-Updated at 10:58 PM on 21.7.25.
+Updated at 11:51 PM on 21.7.27.
 
 # 머신러닝 개념 정리 프로젝트
 
