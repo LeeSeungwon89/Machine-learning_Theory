@@ -1,7 +1,6 @@
 Updated at 2:46 AM on 21.8.30.
 
-# Easy to understanding
-# machine learning theory
+# Easy to understanding Machine Learning Theory
 
 해당 저장소는 머신러닝을 주제로 공부한 내용을 정리하여 업로드 하는 곳입니다.   
 현재는 5개월 동안 진행된 빅데이터 분석 코스를 마치고 강의 내용과 보유한 서적을 공부하여 정리하는 중입니다.   
