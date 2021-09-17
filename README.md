@@ -1,4 +1,4 @@
-Updated at 10:25 PM on 21.9.14.
+Updated at 12:51 AM on 21.9.18.
 
 ## Easy to understanding Machine Learning Theory
 
