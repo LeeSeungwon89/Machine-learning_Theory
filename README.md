@@ -1,6 +1,6 @@
 Updated at 5:39 AM on 22.1.17.
 
-## Easy to understanding Machine Learning Theory
+## Easy to understand Machine Learning Theory
 
 해당 저장소는 머신러닝을 주제 삼아 공부한 내용을 정리하는 곳입니다.   
 
